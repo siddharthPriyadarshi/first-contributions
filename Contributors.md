@@ -4490,6 +4490,7 @@ Jairo Martinez
 - [Apoorv Priyadarsh](https://github.com/apoorv-tech)
 - [Ahmed Gharib](https://github.com/ahmed-gharib89)
 - [YogeshNile](https://github.com/yogeshnile)
+- [Siddharth Priyadarshi](https://github.com/siddharthPriyadarshi)
 - [Kirsten Bolda](https://https://github.com/KirstenBolda)
 - [Dayeong Kang](https://github.com/tula3and)
 - [Josh Lavallee](https://github.com/jlavallee76)
